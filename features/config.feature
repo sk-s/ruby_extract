@@ -8,4 +8,7 @@
     サンプル 設定ファイル
     前提 存在する
     もし SVN設定が正しい
+    ならば SVN_URLがfile:///testである
+    かつ SVN_ACCOUNTがtestである
+    かつ SVN_PASSWORDがtestである
 
