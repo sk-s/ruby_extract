@@ -32,3 +32,23 @@ end
     pending # express the regexp above with the code you wish you had
 end
 
+ならば /^SVN_URLがfile:\/\/\/aaa\/svn\/である$/ do
+    pending # express the regexp above with the code you wish you had
+end
+
+もし /^SVN設定が正しくない$/ do
+    pending # express the regexp above with the code you wish you had
+end
+
+ならば /^SVN_URLがである$/ do
+    pending # express the regexp above with the code you wish you had
+end
+
+ならば /^SVN_ACCOUNTがである$/ do
+    pending # express the regexp above with the code you wish you had
+end
+
+ならば /^SVN_PASSWORDがである$/ do
+    pending # express the regexp above with the code you wish you had
+end
+
